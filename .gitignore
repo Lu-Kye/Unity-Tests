@@ -1,6 +1,6 @@
-^Library/.*
-^Temp/.*
-\.userprefs$
-.*\.sln$
-.*\.userprefs$
-.*\.csproj$
+Library/
+Temp/
+*.userprefs
+*.sln
+*.userprefs
+*.csproj
